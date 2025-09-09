@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
-  Bienvenidos  Ami portafolio  Julian Rivera Dev !
+  Bienvenidos  A mi portafolio  Julian Rivera Dev !
   
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -10,22 +10,21 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+![img](https://img.shields.io/badge/Suscribete-ya?style=flat&logo=youtube&logoColor=white&logoSize=40&label=mi%20perfil&labelColor=black&color=red&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV3O3W5rocPc
+)
 
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=Julian+David+Rivera)
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
-
-  </h3>
+</h3>
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-Tengo 26 años y trabajo como ingeniero de software en , Centro America. 
+ 
 <a href="https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">
-  <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> Me apaciona la codificación.
 
-Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
-
-Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
-Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
+Soy un **Ingeniero de Software** de 26 años con experiencia en desarrollo de aplicaciones web y móviles.  
+Me apasiona la **codificación**, la **resolución de problemas** y el aprendizaje continuo
+ <es><strong><a href = "https://www.codechef.com/users/saravana_me">Clic para observar mis proyectos </a></strong></es> 
 
 <p align="center">
 <img src=".com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
@@ -55,8 +54,10 @@ Although I have a Computer Engineering background, Google and Stack Overflow des
 <a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
-![footer](/mnt/data/A_digital_image_of_the_national_flag_of_Colombia_i.png
-)
+<footer>
+  <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-6934-61f6-933a-807d20b64b19/raw?se=2025-09-09T22%3A25%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=fa59d440-4570-58f2-a63d-f2b5eb213a4a&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-09T20%3A02%3A16Z&ske=2025-09-10T20%3A02%3A16Z&sks=b&skv=2024-08-04&sig=cNzpQS214IzB%2B4bDGexqLNVsxXfUnKx5%2BoNuTE%2B50UU%3D" alt="footer" height="100" width="100%">
+</footer>
+
 
 ------
-Credit: [thesaravanakumar](https://github.com/thesaravanakumar)
+Credit: [Ing Julian Rivera](linkdegithub)
