@@ -27,7 +27,6 @@ Me apasiona la **codificación**, la **resolución de problemas** y el aprendiza
  <es><strong><a href = "https://www.codechef.com/users/saravana_me">Clic para observar mis proyectos </a></strong></es> 
 
 <p align="center">
-<img src=".com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
