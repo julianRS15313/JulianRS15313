@@ -10,9 +10,9 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-![img](https://img.shields.io/badge/Suscribete-ya?style=flat&logo=youtube&logoColor=white&logoSize=40&label=mi%20perfil&labelColor=black&color=red&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV3O3W5rocPc
-)
-
+<a href="https://www.youtube.com/watch?v=V3O3W5rocPc" target="_blank">
+  <img src="https://img.shields.io/badge/Suscribete-ya?style=flat&logo=youtube&logoColor=white&label=mi%20perfil&labelColor=black&color=red" />
+</a>
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=Julian+David+Rivera)
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 </h3>
